@@ -1,20 +1,31 @@
 {
   "hero": {
-    "imgUrl": "/images/home-banner.png",
-    "name": "Jenna Ortega",
-    "heading": "Hay! I’m Jenna",
-    "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
-    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
-    "btnText": "Get in touch",
-    "btnUrl": "contactus"
+    "imgUrl": "/images/sarah-hero.png",
+    "name": "Sarah Rawlins",
+    "heading": "Hi! I’m Sarah",
+    "typingText": [
+      "UI/UX Web Developer",
+      1500,
+      "WordPress Expert",
+      1500,
+      "Graphic Designer",
+      1500
+    ],
+    "description": "I build modern, scalable, and growth-oriented websites and designs by combining clean aesthetics, quick performance, and conversion-focused UI/UX.",
+    "btnText": "Hire me on Upwork",
+    "btnUrl": "https://www.upwork.com/freelancers/~0112ea055de66e986d"
   },
   "socialBtns": [
     {
-      "icon": "fa-brands:facebook-f",
+      "icon": "fa-brands:upwork",
       "iconBgClass": "facebook",
+      "href": "https://www.upwork.com/freelancers/~0112ea055de66e986d"
+    },
+    {
+      "icon": "fa-brands:dribbble",
+      "iconBgClass": "dribbble",
       "href": "/"
     },
-    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "/" },
     {
       "icon": "fa-brands:linkedin-in",
       "iconBgClass": "linkedin",
@@ -56,115 +67,87 @@
     }
   ],
   "about": {
-    "imgSrc": "/images/about-banner.png",
-    "miniTitle": "About Us",
-    "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
-    "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "imgSrc": "/images/sarah-about.png",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>WEB & UI/UX DESIGN</span> PROJECTS",
+    "description": "Hi, I’m Sarah Rawlins, a US-based Designer & Developer with 8 years of industry experience helping businesses build high-converting informational & e-commerce websites, powerful brand identities, and visually compelling digital assets. I specialize in WordPress, Shopify, Wix, Elementor, and custom component builds.",
     "funfacts": [
       {
-        "title": "Google Review",
-        "number": 280
+        "title": "Job Success",
+        "number": 100
       },
       {
         "title": "Years Experience",
-        "number": 15
+        "number": 8
       },
       {
-        "title": "Awward Winning",
-        "number": 49
+        "title": "Total Earnings",
+        "number": "300k+"
       }
     ],
-    "btnText": "Get in touch",
-    "btnUrl": "contactus"
+    "btnText": "View Profile",
+    "btnUrl": "https://www.upwork.com/freelancers/~0112ea055de66e986d"
   },
   "projects": {
     "sectionHeading": {
       "miniTitle": "My Work",
-      "title": "RECENT PROJECT"
+      "title": "RECENT PROJECTS"
     },
     "allProjects": [
       {
-        "thumbUrl": "/images/popup-project-1.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "thumbUrl": "/images/project-scooter.png",
+        "title": "Scooter Mobile App",
+        "subTitle": "UI/UX, Mobile App",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
+          "title": "Scooter Mobile App UI/UX Design",
+          "description": "FastGo Urban Mobility Case Study. A user-friendly mobile application design for urban scooter rentals, focusing on ease of use and quick booking flows.",
+          "type": "UI/UX Design",
+          "langages": "Figma",
+          "platform": "iOS/Android",
           "country": "USA",
-          "url": "www.example.com"
+          "url": "#"
         }
       },
       {
-        "thumbUrl": "/images/popup-project-2.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "thumbUrl": "/images/project-givehub.png",
+        "title": "GiveHub Platform",
+        "subTitle": "UI/UX, Web Design",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
+          "title": "Mobile App UX Design – GiveHub Donation Platform",
+          "description": "A donation platform designed to streamlined the giving process for non-profits. Focused on trust, transparency, and ease of donation.",
+          "type": "Web App",
+          "langages": "Figma, React",
+          "platform": "Web",
           "country": "USA",
-          "url": "www.example.com"
+          "url": "#"
         }
       },
       {
         "thumbUrl": "/images/popup-project-3.jpg",
-        "title": "Dashboard Design",
-        "subTitle": "Web Design, App Design",
+        "title": "AgentFire Real Estate",
+        "subTitle": "Web Development",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "AgentFire – Real Estate Website Platform",
+          "description": "Custom WordPress-Based Real Estate Website Platform. Built to help real estate agents generate leads and manage listings effectively.",
           "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
+          "langages": "WordPress, PHP, CSS",
           "platform": "WordPress",
           "country": "USA",
-          "url": "www.example.com"
+          "url": "#"
         }
       },
       {
         "thumbUrl": "/images/popup-project-4.jpg",
-        "title": "Mobile App Design",
-        "subTitle": "Web Design, App Design",
+        "title": "E-Commerce Store",
+        "subTitle": "Shopify Development",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-5.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-6.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "title": "Custom Shopify Store",
+          "description": "A fully customized Shopify store with a unique theme and optimized conversion funnel.",
+          "type": "E-Commerce",
+          "langages": "Liquid, HTML, CSS",
+          "platform": "Shopify",
+          "country": "Global",
+          "url": "#"
         }
       }
     ]
@@ -172,94 +155,94 @@
   "service": {
     "sectionHeading": {
       "miniTitle": "SERVICES",
-      "title": "Design <span>services</span> I am providing"
+      "title": "My <span>Specializations</span>"
     },
     "allService": [
       {
         "imgUrl": "/images/service-01.jpg",
-        "title": "Website Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
-        "icon": "bi:brush-fill",
+        "title": "Web Design & Dev",
+        "subTitle": "WordPress, Shopify, Wix, Webflow, Custom Code (HTML, CSS, JS, PHP). Responsive & Speed Optimized.",
+        "icon": "bi:code-slash",
         "ratings": 5
       },
       {
         "imgUrl": "/images/service-02.jpg",
-        "title": "Website Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
-        "icon": "bi:code-square",
-        "ratings": 4.5
+        "title": "UI/UX Design",
+        "subTitle": "Figma, Adobe XD. User Interface, User Experience, Wireframes, Prototypes, Mobile App UI.",
+        "icon": "bi:layers-fill",
+        "ratings": 5
       },
       {
         "imgUrl": "/images/service-03.jpg",
-        "title": "SEO Marketing",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
-        "icon": "bi:speedometer2",
+        "title": "Graphic Design",
+        "subTitle": "Logo Design, Brand Identity, Social Media Graphics, Marketing Collateral using Photoshop & Illustrator.",
+        "icon": "bi:palette-fill",
         "ratings": 5
       },
       {
         "imgUrl": "/images/service-04.jpg",
-        "title": "Graphic Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
-        "icon": "bi:palette",
+        "title": "Presentation Design",
+        "subTitle": "Investor Pitch Decks, Corporate Presentations, Slide Decks using PowerPoint & Google Slides.",
+        "icon": "bi:easel-fill",
         "ratings": 5
       }
     ]
   },
   "experience": {
     "sectionHeading": {
-      "miniTitle": "Experience",
-      "title": "My Work <span>Experience</span>"
+      "miniTitle": "Background",
+      "title": "Education & <span>Experience</span>"
     },
     "allExperience": [
       {
-        "designation": "Front-end Developer",
-        "company": "WELAB | REMOTE",
-        "duration": "JAN 2019 - PRESENT",
-        "jobType": "Full time",
-        "companyTitle": "About Company",
-        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+        "designation": "Master of Computer Science (MSCS)",
+        "company": "San Rafael University",
+        "duration": "Graduated",
+        "jobType": "Education",
+        "companyTitle": "University",
+        "companyDescription": "Specialized in Computer Science."
       },
       {
-        "designation": "Front-end Developer",
-        "company": "WELAB | REMOTE",
-        "duration": "JAN 2019 - PRESENT",
-        "jobType": "Full time",
-        "companyTitle": "About Company",
-        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+        "designation": "Bachelor of Fine Arts (BFA)",
+        "company": "Academy of Art University",
+        "duration": "Graduated",
+        "jobType": "Education",
+        "companyTitle": "University",
+        "companyDescription": "Bachelor of Fine Arts in Graphic Design."
       },
       {
-        "designation": "Front-end Developer",
-        "company": "WELAB | REMOTE",
-        "duration": "JAN 2019 - PRESENT",
-        "jobType": "Full time",
-        "companyTitle": "About Company",
-        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+        "designation": "Freelance Designer & Developer",
+        "company": "Self-Employed / Upwork",
+        "duration": "8 Years",
+        "jobType": "Freelance",
+        "companyTitle": "Experience",
+        "companyDescription": "Helping businesses build high-converting websites, powerful brand identities, and visually compelling digital assets."
       }
     ]
   },
   "testimonial": {
     "sectionHeading": {
-      "miniTitle": "Testimonial",
-      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+      "miniTitle": "Testimonials",
+      "title": "Client <span>Feedback</span>"
     },
     "allTestimonial": [
       {
-        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "reviewText": "Sarah is a fantastic developer and designer! She understood our vision perfectly and delivered a site that exceeded our expectations.",
         "avatarImg": "/images/avatar-1.jpg",
-        "avatarName": "Pamela Anders",
-        "avatarCompany": "Company Name"
+        "avatarName": "Happy Client",
+        "avatarCompany": "Upwork Client"
       },
       {
-        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "reviewText": "Great communication and very professional. The UI/UX design she created for our app was top-notch.",
         "avatarImg": "/images/avatar-2.jpg",
-        "avatarName": "Pamela Anders",
-        "avatarCompany": "Company Name"
+        "avatarName": "Startup Founder",
+        "avatarCompany": "Tech Startup"
       },
       {
-        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "reviewText": "Highly recommended for WordPress and Shopify projects. She knows her stuff and delivers on time.",
         "avatarImg": "/images/avatar-3.jpg",
-        "avatarName": "Pamela Anders",
-        "avatarCompany": "Company Name"
+        "avatarName": "E-com Owner",
+        "avatarCompany": "Retail Brand"
       }
     ]
   },
@@ -270,8 +253,14 @@
     },
     "contactImg": "/images/contact-us.png",
     "contactInfo": [
-      { "title": "Write an e-mail", "email": "sample@domain.com" },
-      { "title": "write an e-mail", "tel": "+044 9696 9696 3636" }
+      {
+        "title": "Hire via Upwork",
+        "email": "Sarah Rawlins"
+      },
+      {
+        "title": "Location",
+        "tel": "San Rafael, CA, USA"
+      }
     ]
   }
 }
